@@ -23,19 +23,19 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  if (n === n) {
+/*  if (n === n) {
     return n
   }
   else {
     return n
-  }
+  }*/
 }
 
-/*function preserveDecimal(n) {
-  if () {
+function preserveDecimal(n) {
+/*  if () {
     return n
   }
   else {
     //return NaN
-  }
-}*/
+  }*/
+}
