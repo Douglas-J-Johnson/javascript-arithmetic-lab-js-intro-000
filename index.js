@@ -22,19 +22,19 @@ function dec(n) {
   return --n
 }
 
-/*function makeInt(n) {
-  if () {
+function makeInt(n) {
+  if (true) {
     return n
   }
-  else if () {
+  else if (false) {
     return n
   }
   else {
-    //return NaN
+    return n
   }
 }
 
-function preserveDecimal(n) {
+/*function preserveDecimal(n) {
   if () {
     return n
   }
