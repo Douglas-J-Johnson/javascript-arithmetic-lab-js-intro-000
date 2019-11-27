@@ -23,10 +23,7 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  if (true) {
-    return n
-  }
-  else if (false) {
+  if (n === n) {
     return n
   }
   else {
