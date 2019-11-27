@@ -22,7 +22,7 @@ function dec(n) {
   return n--
 }
 
-function makeInt(n) {
+/*function makeInt(n) {
   if () {
     return n
   }
@@ -41,4 +41,4 @@ function preserveDecimal(n) {
   else {
     //return NaN
   }
-}
+}*/
