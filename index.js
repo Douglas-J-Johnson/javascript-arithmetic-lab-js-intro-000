@@ -23,19 +23,9 @@ function dec(n) {
 }
 
 function makeInt(n) {
-/*  if (n === n) {
-    return n
-  }
-  else {
-    return n
-  }*/
+  parseInt(n)
 }
 
 function preserveDecimal(n) {
-/*  if () {
-    return n
-  }
-  else {
-    //return NaN
-  }*/
+  parseFloat(n)
 }
