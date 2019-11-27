@@ -24,21 +24,21 @@ function dec(n) {
 
 function makeInt(n) {
   if () {
-
+    return n
   }
   else if () {
-
+    return n
   }
   else {
-    return NaN
+    //return NaN
   }
 }
 
 function preserveDecimal(n) {
   if () {
-
+    return n
   }
   else {
-    return NaN
+    //return NaN
   }
 }
